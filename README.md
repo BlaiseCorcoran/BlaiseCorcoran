@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**BlaiseCorcoran/BlaiseCorcoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome To My Github Page!
+# Education:
+* May 2021 - Associate's Degree - Cecil County Community College
+* December 2024 - Bachelor of Computer Science - Kutztown University of Pennsylvania
+# Methodologies I am Proficient In:
+* Waterfall
+* Agile
+# Languages I Am Proficient In: 
+* C, C++, C#
+* Python
+* Kotlin
+* HTML
+* PHP
+* CSS
+* XML
