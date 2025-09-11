@@ -10,7 +10,4 @@
 * PHP
 * CSS
 * XML
-## IDE's:
-* Visual Studio
-* Visual Studio Code
-* Android Studio
+
